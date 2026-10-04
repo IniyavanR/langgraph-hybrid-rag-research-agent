@@ -1,0 +1,7 @@
+.env
+.venv/
+ragas_eval_env/
+__pycache__/
+research_agent.db
+ChromaDB/
+LangGraph_project_pdf_data/
